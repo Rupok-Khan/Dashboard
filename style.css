@@ -1,0 +1,160 @@
+#photo img{
+    height: 500px;
+    width: 70%;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin: auto;
+    justify-content: center;
+}
+   
+#content{
+    margin-top: 30px;
+    padding: 30px;
+    background-color: bisque;
+    border-radius: 10px;
+    
+}
+#log{
+  padding-top: 30px;
+  margin: auto;
+  justify-content: center;
+}
+#log input{
+    padding: 3px;
+    border-radius: 5px;
+}
+#sign{
+    margin-top: 20px;
+}   
+#inp{
+   margin-bottom: 30px;
+}
+#pas{
+   margin-top: 10px;
+}
+#btn1{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(58, 3, 3);
+    color: white;
+}
+#reg{
+    text-decoration: none;
+}
+.text2{
+    display:none;
+    padding: 20px;
+    
+}
+.heading1{
+    text-align: center;
+}
+#row5{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    padding-left: 60px;
+    padding-right: 60px;
+    
+    
+}
+.balance{
+    background-color: #870460;
+    color: white;
+    padding: 30px;
+    margin-left: 25px;
+    margin-right: 25px;
+    border-radius: 10px;
+    margin-top: 10px;
+    font-size: 1.5rem;
+
+}
+.deposit{
+    background-color: rgb(33, 4, 61);
+    color: white;
+    padding: 30px;
+    margin-left: 25px;
+    margin-top: 10px;
+    margin-right: 25px;
+    border-radius: 10px;
+    font-size: 1.5rem;
+}
+.witdraw{
+    background-color: #CD3105;
+    color: white;
+    margin-left: 25px;
+    padding: 30px;
+    margin-top: 10px;
+    margin-right: 25px;
+    border-radius: 10px;
+    font-size: 1.5rem;
+}
+#content-area input{
+    padding-left: 30px;
+    
+   
+}
+.deposit2 input{
+    padding-left: 30px;
+    
+}
+.withdraw2 input{
+    padding-left: 30px;
+}
+.deposit2 p{
+    font-size: 1.5rem;
+}
+.withdraw2 p{
+    font-size: 1.5rem;
+}
+.deposit2{
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color:#5902c4;
+    color: white;
+    padding: 10px;
+    padding-bottom: 10px;
+    margin: 20px;
+    border: none;
+
+}
+.withdraw2{
+    border: 2px solid black;
+    padding: 10px;
+    padding-bottom: 10px;
+    margin: 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(73, 139, 19);
+}
+.buton{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.btn5{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(175, 3, 3);
+    color: white;
+}
+#content-area{
+   
+}
+.dip{
+    display:flex;
+}
+.dip p{
+    margin-left: 5px;
+    font-size: 1.3rem;
+}
+.dip i{
+    margin-top: 4px;
+}
